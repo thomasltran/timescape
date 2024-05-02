@@ -1,6 +1,6 @@
 # TimeScape
 
-![TimeScape Logo](link/to/your/logo.png)
+![TimeScape Logo](./TimeScapeLogo.png)
 
 ## Overview
 
